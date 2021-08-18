@@ -1,0 +1,705 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "ANNOUNCER",
+        "target": "BATTY",
+        "weight": 1
+      },
+      {
+        "source": "ANNOUNCER",
+        "target": "LEON",
+        "weight": 1
+      },
+      {
+        "source": "GAFF",
+        "target": "DECKARD",
+        "weight": 1
+      },
+      {
+        "source": "BARTENDER",
+        "target": "LEON",
+        "weight": 1
+      },
+      {
+        "source": "BARTENDER",
+        "target": "DECKARD",
+        "weight": 1
+      },
+      {
+        "source": "BARTENDER",
+        "target": "RUSSIAN",
+        "weight": 1
+      },
+      {
+        "source": "COP",
+        "target": "DECKARD",
+        "weight": 1
+      },
+      {
+        "source": "COP",
+        "target": "SERGEANT",
+        "weight": 1
+      },
+      {
+        "source": "SEBASTIAN",
+        "target": "PRIS",
+        "weight": 4
+      },
+      {
+        "source": "SEBASTIAN",
+        "target": "CHEW",
+        "weight": 2
+      },
+      {
+        "source": "SEBASTIAN",
+        "target": "TYRELL",
+        "weight": 1
+      },
+      {
+        "source": "SEBASTIAN",
+        "target": "MOUSE",
+        "weight": 1
+      },
+      {
+        "source": "SEBASTIAN",
+        "target": "PIG",
+        "weight": 1
+      },
+      {
+        "source": "SEBASTIAN",
+        "target": "BATTY",
+        "weight": 3
+      },
+      {
+        "source": "SEBASTIAN",
+        "target": "MARY",
+        "weight": 2
+      },
+      {
+        "source": "BATTY",
+        "target": "PRIS",
+        "weight": 4
+      },
+      {
+        "source": "BATTY",
+        "target": "LEON",
+        "weight": 1
+      },
+      {
+        "source": "BATTY",
+        "target": "TYRELL",
+        "weight": 1
+      },
+      {
+        "source": "BATTY",
+        "target": "PIG",
+        "weight": 1
+      },
+      {
+        "source": "BATTY",
+        "target": "MARY",
+        "weight": 2
+      },
+      {
+        "source": "WHEELER",
+        "target": "DECKARD",
+        "weight": 1
+      },
+      {
+        "source": "RUSSIAN",
+        "target": "LEON",
+        "weight": 1
+      },
+      {
+        "source": "RUSSIAN",
+        "target": "DECKARD",
+        "weight": 1
+      },
+      {
+        "source": "SALOME",
+        "target": "DECKARD",
+        "weight": 2
+      },
+      {
+        "source": "PRIS",
+        "target": "MARY",
+        "weight": 2
+      },
+      {
+        "source": "PRIS",
+        "target": "PIG",
+        "weight": 1
+      },
+      {
+        "source": "PRIS",
+        "target": "MOUSE",
+        "weight": 1
+      },
+      {
+        "source": "BRYANT",
+        "target": "DECKARD",
+        "weight": 3
+      },
+      {
+        "source": "BRYANT",
+        "target": "RACHAEL",
+        "weight": 1
+      },
+      {
+        "source": "DECKARD",
+        "target": "ESPER",
+        "weight": 2
+      },
+      {
+        "source": "DECKARD",
+        "target": "TYRELL",
+        "weight": 1
+      },
+      {
+        "source": "DECKARD",
+        "target": "SERGEANT",
+        "weight": 1
+      },
+      {
+        "source": "DECKARD",
+        "target": "TAFFEY",
+        "weight": 1
+      },
+      {
+        "source": "DECKARD",
+        "target": "RACHEL",
+        "weight": 1
+      },
+      {
+        "source": "DECKARD",
+        "target": "LEON",
+        "weight": 1
+      },
+      {
+        "source": "DECKARD",
+        "target": "RACHAEL",
+        "weight": 8
+      },
+      {
+        "source": "DECKARD",
+        "target": "HOLDEN",
+        "weight": 1
+      },
+      {
+        "source": "LEON",
+        "target": "HOLDEN",
+        "weight": 1
+      },
+      {
+        "source": "LEON",
+        "target": "RACHAEL",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "PIG",
+        "weight": 1
+      },
+      {
+        "source": "TYRELL",
+        "target": "IAN",
+        "weight": 1
+      },
+      {
+        "source": "TYRELL",
+        "target": "RACHEL",
+        "weight": 1
+      },
+      {
+        "source": "TYRELL",
+        "target": "RACHAEL",
+        "weight": 1
+      },
+      {
+        "source": "RACHAEL",
+        "target": "RACHEL",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "ANNOUNCER",
+        "name": "ANNOUNCER",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.01767821126710524,
+        "object_id": "782091",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.4166666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GAFF",
+        "name": "GAFF",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.012631213208938782,
+        "object_id": "781795",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5416666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BARTENDER",
+        "name": "BARTENDER",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.026897575337484075,
+        "object_id": "784563",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.25,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COP",
+        "name": "COP",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.021967529803549248,
+        "object_id": "784428",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SEBASTIAN",
+        "name": "SEBASTIAN",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 7,
+        "pagerank": 0.08321258285842989,
+        "object_id": "782192",
+        "triangles": 8,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1666666666666665,
+        "betweenness centrality": 54.99999999999999,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BATTY",
+        "name": "BATTY",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 7,
+        "pagerank": 0.07697584601156349,
+        "object_id": "782129",
+        "triangles": 8,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0416666666666665,
+        "betweenness centrality": 53.49999999999999,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WHEELER",
+        "name": "WHEELER",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.012631213208938782,
+        "object_id": "783365",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5416666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RUSSIAN",
+        "name": "RUSSIAN",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.026897575337484075,
+        "object_id": "784577",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.25,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SALOME",
+        "name": "SALOME",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.019262426417877565,
+        "object_id": "784139",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5416666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PRIS",
+        "name": "PRIS",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.06868349903196114,
+        "object_id": "782309",
+        "triangles": 7,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.75,
+        "betweenness centrality": 3.4999999999999996,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BRYANT",
+        "name": "BRYANT",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.03200705109518097,
+        "object_id": "781884",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DECKARD",
+        "name": "DECKARD",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 15,
+        "pagerank": 0.20283020399278653,
+        "object_id": "781760",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.5833333333333333,
+        "betweenness centrality": 165.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LEON",
+        "name": "LEON",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 7,
+        "pagerank": 0.05472535330048525,
+        "object_id": "781569",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8333333333333333,
+        "betweenness centrality": 48.166666666666664,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ESPER",
+        "name": "ESPER",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.019262426417877565,
+        "object_id": "782448",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5416666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HOLDEN",
+        "name": "HOLDEN",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.019276524963587848,
+        "object_id": "781579",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2916666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MARY",
+        "name": "MARY",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.041420109535752876,
+        "object_id": "785059",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.7916666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TYRELL",
+        "name": "TYRELL",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 6,
+        "pagerank": 0.04674597327301376,
+        "object_id": "782912",
+        "triangles": 4,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.75,
+        "betweenness centrality": 89.33333333333334,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SERGEANT",
+        "name": "SERGEANT",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.02196752980354925,
+        "object_id": "784443",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MOUSE",
+        "name": "MOUSE",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.015916944438896047,
+        "object_id": "782650",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.0833333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "IAN",
+        "name": "IAN",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.012622354317793436,
+        "object_id": "785900",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.7083333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TAFFEY",
+        "name": "TAFFEY",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.012631213208938782,
+        "object_id": "783967",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5416666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RACHAEL",
+        "name": "RACHAEL",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.08630634205537163,
+        "object_id": "782791",
+        "triangles": 5,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 7.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHEW",
+        "name": "CHEW",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.016104062940043972,
+        "object_id": "782172",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.125,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PIG",
+        "name": "PIG",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.025979259178293,
+        "object_id": "785168",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.7916666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RACHEL",
+        "name": "RACHEL",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.02536697899509684,
+        "object_id": "783057",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.125,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -36.073833,
+        "y": 75.503044,
+        "name": "ANNOUNCER"
+      },
+      {
+        "x": -94.44977,
+        "y": -57.68352,
+        "name": "GAFF"
+      },
+      {
+        "x": -60.689724,
+        "y": -73.9629,
+        "name": "BARTENDER"
+      },
+      {
+        "x": 101.285515,
+        "y": -181.28493,
+        "name": "COP"
+      },
+      {
+        "x": 60.929764,
+        "y": 185.104,
+        "name": "SEBASTIAN"
+      },
+      {
+        "x": 11.760654,
+        "y": 148.85504,
+        "name": "BATTY"
+      },
+      {
+        "x": 19.78732,
+        "y": -215.295,
+        "name": "WHEELER"
+      },
+      {
+        "x": -100.82357,
+        "y": -95.38117,
+        "name": "RUSSIAN"
+      },
+      {
+        "x": -0.30509883,
+        "y": -179.56084,
+        "name": "SALOME"
+      },
+      {
+        "x": 21.67707,
+        "y": 194.86665,
+        "name": "PRIS"
+      },
+      {
+        "x": 53.959007,
+        "y": -145.24095,
+        "name": "BRYANT"
+      },
+      {
+        "x": 9.570681,
+        "y": -123.759285,
+        "name": "DECKARD"
+      },
+      {
+        "x": -44.158447,
+        "y": -16.851795,
+        "name": "LEON"
+      },
+      {
+        "x": -34.04793,
+        "y": -163.99895,
+        "name": "ESPER"
+      },
+      {
+        "x": -60.752792,
+        "y": -117.335495,
+        "name": "HOLDEN"
+      },
+      {
+        "x": 20.326069,
+        "y": 233.14288,
+        "name": "MARY"
+      },
+      {
+        "x": 70.04532,
+        "y": 27.56897,
+        "name": "TYRELL"
+      },
+      {
+        "x": 75.75796,
+        "y": -211.0705,
+        "name": "SERGEANT"
+      },
+      {
+        "x": 73.57411,
+        "y": 249.58896,
+        "name": "MOUSE"
+      },
+      {
+        "x": 128.14624,
+        "y": 45.297478,
+        "name": "IAN"
+      },
+      {
+        "x": 7.3216515,
+        "y": -56.92956,
+        "name": "TAFFEY"
+      },
+      {
+        "x": 39.809273,
+        "y": -86.40811,
+        "name": "RACHAEL"
+      },
+      {
+        "x": 107.30162,
+        "y": 190.13329,
+        "name": "CHEW"
+      },
+      {
+        "x": -20.889212,
+        "y": 212.8185,
+        "name": "PIG"
+      },
+      {
+        "x": 86.64082,
+        "y": -55.39639,
+        "name": "RACHEL"
+      }
+    ]
+  }
+}
